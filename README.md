@@ -1,2 +1,1 @@
 # vsd-soc-planing
-Content
